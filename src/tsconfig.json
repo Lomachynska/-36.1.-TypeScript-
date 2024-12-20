@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",  // Це потрібно для підтримки сучасних можливостей ES6
+    "module": "ESNext",  // Використовувати ES6 модулі (не CommonJS)
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
